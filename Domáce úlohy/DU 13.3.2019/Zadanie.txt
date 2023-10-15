@@ -1,0 +1,22 @@
+Vytvorte program
+Vytvorte program, ktorı nahradí v texte pesnièky samohlásky, tak e ich zmení na písmeno, ktoré zadá pouívate¾.
+ 
+Text pesnièky:
+ 
+Sedi mucha na stene, na stene, na stene.
+Sedi mucha na stene, sedi a spi.
+Sedi a buvinka potvorka malinka.
+Sedi mucha na stene, sedi a spi.
+ 
+Ak uívate¾ zadá písmeno “o” tak text pesnièky program vypíše zmenenı v takomto tvare:
+ 
+Sodo mocho no stono, no stono, no stono.
+Sodo mocho no stono, sodo o spo.
+Sodo o bovonko potvorko molonko.
+Sodo mocho no stono, sodo o spo.
+ 
+Podobne ak by sme program znovu spustili a zadali iné písmeno napr. "i" alebo "e", tak program zamení za uvedené písmeno všetky samohlásky. Uvaujte pre zjednodušenie v pôvodnej pesnièke s písmenami bez diakritiky.
+ 
+Text zo stránky: https://hudba.zoznam.sk/akordy/piesen/sedi-mucha-na-stene/
+Pesnièku si môete vypoèu na stránke:
+https://www.youtube.com/watch?v=2L5zzaRFW_U
